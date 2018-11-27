@@ -1,0 +1,6 @@
+{
+  "arch_file" : "arch.json",
+  "weight_file" : "nn_len8.h5",
+  "log_file" : "guess_log.txt",
+  "enumerate_ofile" : "g1_enumerate.tsv"
+}
