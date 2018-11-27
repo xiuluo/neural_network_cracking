@@ -3,7 +3,7 @@
         "arch_file" : "arch.json",
         "weight_file" : "nn_len8.h5",
         "log_file" : "guess_log.txt",
-        "enumerate_ofile": "~/g1_len8.tsv"
+        "enumerate_ofile": "/content/g1_len8.tsv"
     },
     "config" : {
         "training_chunk" : 1000,
